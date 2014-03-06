@@ -10,9 +10,13 @@ This eclipse project contains the java source files of algorithms designed and/o
 The original part lies in classes MinIntChangeC, MinInt-ChangeGHash, and MinIntChangeGTrie (package algorithms).
 
 To run experiments, the best way to proceed is as follow
+
 1. Download Eclipse (eclipse.org)
+
 2. Import the project Archive
+
 3. Edit the class Main.java for setting up your argments (not in command line :))
+
 4. Run the main from the class Main
    
    
