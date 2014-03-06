@@ -1,0 +1,58 @@
+8
+
+dir
+3
+https://svn.codespot.com/a/eclipselabs.org/minintchange/trunk/src
+https://svn.codespot.com/a/eclipselabs.org/minintchange
+
+
+
+2011-01-24T13:00:55.465368Z
+3
+minintchange@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba9209a0-9d54-157b-1f2b-85ac88d8f629
+
+ExperimentsSDM.java
+file
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+algorithms
+dir
+
+main
+dir
+

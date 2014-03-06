@@ -1,0 +1,54 @@
+8
+
+dir
+3
+https://svn.codespot.com/a/eclipselabs.org/minintchange/trunk/src/algorithms/datastructure/trie
+https://svn.codespot.com/a/eclipselabs.org/minintchange
+
+
+
+2011-01-24T13:00:55.465368Z
+3
+minintchange@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba9209a0-9d54-157b-1f2b-85ac88d8f629
+
+Node.java
+file
+4
+
+
+
+2011-01-24T13:03:22.000000Z
+beb51808066c6fc9b662f4c737935509
+2011-01-24T13:03:24.563815Z
+4
+minintchange@gmail.com
+has-props
+
+Trie.java
+file
+4
+
+
+
+2011-01-24T13:03:25.000000Z
+ac948d01c12e5be89eba95ee9b275aa7
+2011-01-24T13:03:24.563815Z
+4
+minintchange@gmail.com
+has-props
+
