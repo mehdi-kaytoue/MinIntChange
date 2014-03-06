@@ -2,8 +2,8 @@ MinIntChange
 ============
 
 An algorithm to mine (frequent) closed numerical patterns and their generators (convex hulls)
-Revisiting numerical pattern mining:  Extracting Closed Patterns and their Generators 
-M. Kaytoue, S. O. Kuznetsov, A. Napoli, Published at IJCAI 2O11        
+> Revisiting numerical pattern mining:  Extracting Closed Patterns and their Generators 
+  M. Kaytoue, S. O. Kuznetsov, A. Napoli, Published at IJCAI 2O11        
 
 This eclipse project contains the java source files of algorithms designed and/or used in the submitted paper.
 
