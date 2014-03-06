@@ -12,17 +12,7 @@ The original part lies in classes MinIntChangeC, MinInt-ChangeGHash, and MinIntC
 To run experiments, the best way to proceed is as follow
 1. Download Eclipse (eclipse.org)
 2. Import the project Archive
-3. Edit the class Main.java 
-	1. Change the data filename:
-	* Datasets used in the paper can be found in ./data
-	* Comment/un-comment the desired dataset 
-	2. Change minimal support
-	* absolute: to use an absolute minimal support, set minSuppRelative = -1 and modify minSup
-	* relative: to use a relative minimal support, 	set minSuppRelative between 0 and 1 (ratio of minSup/#objects) 
-	3. Set printResult = true for printing the results,
-	                     = false to see only execution 
-	                       times and #patterns
-	3.4. Comment/un comment the algorithms to experiment
+3. Edit the class Main.java for setting up your argments (not in command line :))
 4. Run the main from the class Main
    
    
