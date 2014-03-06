@@ -32,9 +32,9 @@ To run experiments, the best way to proceed is as follow
    
    
 Note: Allocate memory for the java virtual machine (JVM)
- *Menu "Run"
-  *  sub-menu "Run Configurations..."
-   * Configuration "Main"
-   * Tab "Arguments"
-   * Field "VM arguments" 
-   * add, e.g. -Xmx2560M to allocate 2.5GB of memory.
+*Menu "Run"
+* sub-menu "Run Configurations..."
+* Configuration "Main"
+* Tab "Arguments"
+* Field "VM arguments" 
+* add, e.g. -Xmx2560M to allocate 2.5GB of memory.
